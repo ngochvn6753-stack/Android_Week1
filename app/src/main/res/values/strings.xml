@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week1</string>
+    <string name="back">Back</string>
+    <string name="Profile">profile</string>
+    <string name="avatar">ảnh đại diện sinh viên</string>
+    <string name="student_name">Hà Vũ Như Ngọc</string>
+    <string name="student_id">079306006753</string>
+</resources>
